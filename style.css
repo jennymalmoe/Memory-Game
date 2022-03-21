@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Londrina+Sketch&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Londrina+Sketch&display=swap");
 
 body {
-    font-family: Londrina Sketch;
-    font-size: 40px;
-    color: rgb(40, 187, 187);
-    background-color: rgb(223, 218, 208);
+  font-family: Londrina Sketch;
+  font-size: 40px;
+  color: rgb(40, 187, 187);
+  background-color: rgb(223, 218, 208);
 }
 
 img {
-    padding-left: 11px;
+  padding-left: 11px;
 }
 
 #grid {
@@ -17,12 +17,15 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 35px;
 }
 
 #header {
-    text-align: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #text {
-    text-align: center; 
+  text-align: center;
 }
