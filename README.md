@@ -6,4 +6,4 @@ Memory Game
 Memory Game (HTML, CSS, JavaScript)
 
 ![Image_1](images/1.html.png)
-![Image_2](./images/2.png)
+![Image_2](./images/2.png) 
