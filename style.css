@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Sketch&display=swap');
+
+body {
+    font-family: Londrina Sketch;
+    font-size: 40px;
+    color: rgb(40, 187, 187);
+    background-color: rgb(223, 218, 208);
+}
+
+img {
+    padding-left: 11px;
+}
+
+#grid {
+  width: 400px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#header {
+    text-align: center;
+}
+
+#text {
+    text-align: center; 
+}
